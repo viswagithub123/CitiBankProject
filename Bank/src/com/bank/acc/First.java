@@ -6,5 +6,4 @@ public class First {
 		int a=10;
 		System.out.println("Final Result is : "+a);
 	}
-
 }
